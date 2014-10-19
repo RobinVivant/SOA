@@ -1,0 +1,14 @@
+fr\unice\polytech\soa1\TeamForce\Vivant\business\Customer.class
+fr\unice\polytech\soa1\TeamForce\Vivant\business\Good.class
+fr\unice\polytech\soa1\TeamForce\Vivant\business\Status.class
+fr\unice\polytech\soa1\TeamForce\Vivant\business\Catalogue.class
+fr\unice\polytech\soa1\TeamForce\Vivant\dao\CustomerDAO.class
+fr\unice\polytech\soa1\TeamForce\Vivant\rest\Catalogs.class
+fr\unice\polytech\soa1\TeamForce\Vivant\business\GoodOrder.class
+fr\unice\polytech\soa1\TeamForce\Vivant\business\Categorie.class
+fr\unice\polytech\soa1\TeamForce\Vivant\business\Order.class
+fr\unice\polytech\soa1\TeamForce\Vivant\business\Person.class
+fr\unice\polytech\soa1\TeamForce\Vivant\business\Company.class
+fr\unice\polytech\soa1\TeamForce\Vivant\business\Address.class
+fr\unice\polytech\soa1\TeamForce\Vivant\rest\CatalogsImpl.class
+fr\unice\polytech\soa1\TeamForce\Vivant\ResponseBuilder.class
